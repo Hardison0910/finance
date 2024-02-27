@@ -241,5 +241,11 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - 人民币199元/3个问题，微信、支付宝、数字人民币支付，电邮：**Hardison0910@foxmail.com**
 - 国际外汇，Real版，799美元绑定实盘账号，终身使用，数字货币支付，推特X私信：**&#64;Hardison0910**
 - 美国盈透证券自动化交易软件，早鸟价799美元绑定实盘账号，终身使用，数字货币支付，电邮：**ljrj@gmail.com**
+- [《You Can You Up》ZOE英文版](https://z-library.se/book/27494009/b53319)
+- [《You Can You Up》中文简体版](https://z-library.se/book/27485100/7e4800/)
+- [《You Can You Up》中文繁体版](https://z-library.se/book/27489608/23baa8/)
+- [《You Can You Up》芬兰语版](https://www.amazon.com/dp/B0CPMBPLWN?language=zh_CN)
+
+
 
 **郑重声明**   <u>*不对模拟结果作任何保证，依据测试结果进行实盘交易的后果完全由使用者自己承担。*</u>
