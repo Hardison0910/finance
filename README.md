@@ -203,7 +203,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 |智诚期货					|  	    		     	    | 	√ 			         | 				     |
 |正大国际					|  	    		     	    | 	√ 			         | 				     |
 |中金汇理					|  	    		     	    | 	√ 			         | 				     |
-|DooPrime（德璞）			|   	    			    | 				         | 		√		     | 	[Real实盘开户链接](https://user.dooprime.com/signup/Y3579402-a01)     
+|DooPrime			|   	    			    | 				         | 		√		     | 	[Real实盘开户链接](https://user.dooprime.com/signup/Y3579402-a01)     
 |FXTM（富拓）				|   	    			    | 				         | 		√	     | 	[Real实盘开户链接](https://pointtomylink.com/zh/?form=JhmL)  
 |Exness					|   	    			    | 				         | 		√		     | 	[Real实盘开户链接](https://one.exness-track.com/a/bp7s4a8xxc)  
 |XM					|   	    			    | 				         | 		√		     | 	
