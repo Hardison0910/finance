@@ -96,6 +96,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 |上海东亚					| √  	    			    | 				         | 				     | 	
 |上海东方					| √  	    			    | 				         | 				     | 	
 |上海中期					| √  	    			    | 				         | 				     | 
+|晟鑫期货					| √  	    			    | 				         | 				     | 
 |山西三立					| √  	    			    | 				         | 				     | 	
 |山金期货					| √  	    			    | 				         | 				     | 	
 |盛达期货					| √  	    			    | 				         | 				     | 	
@@ -219,7 +220,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 |支持MT5平台商				|   	    			    | 				         | 				     | 	待升级		
 |美国盈透证券				|   	    			    | 				         | 				     | 	待开发
 
-*上述信息，更新到2024年2月25日
+*上述信息，更新到2024年3月2日
 
 > 通过上述Real实盘开户链接，进行外汇MT4开户，购买软件有优惠。&nbsp;&nbsp;&nbsp;&nbsp;私信推特X：**&#64;Hardison0910**
 
@@ -229,8 +230,8 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - 预计2024年7月前上市  &nbsp;&nbsp;&nbsp;&nbsp;零售价：~~&#36;1000/年~~  &nbsp;&nbsp;&nbsp;&nbsp;早鸟价<mark>&#36;799/终身</mark>（限100份）
 - 支持约30个国家和地区，约150家交易所，股票、期货、期权、外汇、债券、基金等产品自动化交易
 
-<img src="http://www.ljrj.byethost5.com/upload/attach/202401/1_KD2T8E5ZA5D25SZ.jpg" alt="波场币" width="500" height="366" />
-<img src="http://www.ljrj.byethost5.com/upload/attach/202401/1_HFW7D5H9ZJQD8GN.jpg" alt="币安和以太坊" width="500" height="366" />
+
+<img src="http://www.ljrj.byethost5.com/upload/attach/202403/1_RE7GFBYHAS676VQ.png" alt="币安和以太坊" width="800" height="273" />
 
 >接受USDT、USDC支付，付费后，提供美国盈透证券实盘账号+付款截图，发电邮到：**ljrj2019@gmail.com**
 
