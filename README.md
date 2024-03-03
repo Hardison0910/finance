@@ -10,6 +10,9 @@
 <img src="http://www.ljrj.byethost5.com/999.png" alt="中国国内ctp期货高频交易" width="600" height="661" />
 
 > 可实现CTP期货高频交易 `1秒31笔成交单`
+
+> **主要功能为：任何一笔期货交易，均通过此软件程序，4选1+5个参数设置，由人工交易转变为自动化交易**
+
 关于期货、外汇方面，任何三个问题提问价：<mark>&yen;199</mark>
 
 ![CTP模拟盘源码使用演示](http://www.ljrj.byethost5.com/upload/attach/202402/1_52HRRD5PPNHWMV9.gif)
@@ -18,6 +21,7 @@
 python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.tuna.tsinghua.edu.cn/simple`
 
 *替换CTP模拟盘账号和登录密码，替换信易网站注册的账号和登录密码，替换想要测试的品种合约*
+
 
 <img src="http://www.ljrj.byethost5.com/upload/attach/202402/1_4XWBNQD8VWPCK2P.jpg" alt="扫一扫，支持微信、支付宝、数字人民币" width="700" height="353" />
 
@@ -224,11 +228,15 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 
 > 通过上述Real实盘开户链接，进行外汇MT4开户，购买软件有优惠。&nbsp;&nbsp;&nbsp;&nbsp;私信推特X：**&#64;Hardison0910**
 
+> **主要功能为：通过此软件程序，2选1+5个参数设置，可实现外汇平台上，人工交易转变为自动化交易**
+
 ![美国盈透证券](http://www.ljrj.byethost5.com/upload/attach/202309/2_BFVFHXXXE566PBH.gif)
 
 **美国盈透证券 自动化交易软件（待开发）**
 - 预计2024年7月前上市  &nbsp;&nbsp;&nbsp;&nbsp;零售价：~~&#36;1000/年~~  &nbsp;&nbsp;&nbsp;&nbsp;早鸟价<mark>&#36;799/终身</mark>（限100份）
 - 支持约30个国家和地区，约150家交易所，股票、期货、期权、外汇、债券、基金等产品自动化交易
+
+> **主要功能为：2选1+5个参数设置，可实现在美国盈透证券平台上，任何品种，人工交易转变为自动化交易**
 
 
 <img src="http://www.ljrj.byethost5.com/upload/attach/202403/1_RE7GFBYHAS676VQ.png" alt="币安和以太坊" width="800" height="273" />
