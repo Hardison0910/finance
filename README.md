@@ -28,6 +28,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 
 
 > 付费后，请把3个问题及付费截图发到电邮：**Hardison0910@foxmail.com**
+------------
 
 
 ### **支持国内期货实盘、海外期货实盘、国际外汇实盘自动化交易平台商一览表：**
@@ -224,11 +225,17 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 |支持MT5平台商				|   	    			    | 				         | 				     | 	待升级		
 |美国盈透证券				|   	    			    | 				         | 				     | 	待开发
 
-*上述信息，更新到2024年3月2日
+*上述信息，更新到2024年3月8日
 
-> 通过上述Real实盘开户链接，进行外汇MT4开户，购买软件有优惠。&nbsp;&nbsp;&nbsp;&nbsp;私信推特X：**&#64;Hardison0910**
+------------
+
+> **通过上述Real实盘开户链接开户交易，再购买软件享八折优惠，即<mark>640</mark>美元。&nbsp;&nbsp;&nbsp;私信推特X：&#64;Hardison0910**
 
 > **主要功能为：通过此软件程序，2选1+5个参数设置，可实现外汇平台上，人工交易转变为自动化交易**
+
+> **通过香港【转速快】FPS ID：<mark>110129079</mark>（LU），在二十四节气当天可享八折优惠，即<mark>5000</mark>港币或<mark>4500</mark>元人民币**
+
+------------
 
 ![美国盈透证券](http://www.ljrj.byethost5.com/upload/attach/202309/2_BFVFHXXXE566PBH.gif)
 
@@ -243,6 +250,8 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 
 >接受USDT、USDC支付，付费后，提供美国盈透证券实盘账号+付款截图，发电邮到：**ljrj2019@gmail.com**
 
+------------
+
 ### 汇总：
 - 国内期货，[CTP官网](https://www.simnow.com.cn/)申请模拟盘，再去[信易官网](https://www.shinnytech.com/)注册后，绑定CTP模拟盘账号，到源码中替换后，即可测试使用。
 - 海外期货，需要跟海外期货公司申请模拟盘测试，易盛3.0，对方会提供模拟盘账号和密码以及服务器ip地址、端口号、APPID、CER，软件设置中保存，即可测试使用。
@@ -255,6 +264,6 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - [《You Can You Up》中文繁体版](https://z-library.se/book/27489608/23baa8/)
 - [《You Can You Up》芬兰语版](https://www.amazon.com/dp/B0CPMBPLWN?language=zh_CN)
 
-
+------------
 
 **郑重声明**   <u>*不对模拟结果作任何保证，依据测试结果进行实盘交易的后果完全由使用者自己承担。*</u>
