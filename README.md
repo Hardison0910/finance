@@ -225,7 +225,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 |支持MT5平台商				|   	    			    | 				         | 				     | 	待升级		
 |美国盈透证券				|   	    			    | 				         | 				     | 	待开发
 
-*上述信息，更新到2024年3月10日
+*上述信息，更新到2024年3月8日
 
 ------------
 
@@ -273,11 +273,11 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 ------------
 
 ### 汇总：
-- 国内期货，[CTP官网](https://www.simnow.com.cn/)申请模拟盘，再去[信易官网](https://www.shinnytech.com/)注册后，绑定CTP模拟盘账号，到源码中替换后，即可测试使用。
-- 海外期货，需要跟海外期货公司申请模拟盘测试，易盛3.0，对方会提供模拟盘账号和密码以及服务器ip地址、端口号、APPID、CER，软件设置中保存，即可测试使用。
-- 国际外汇MT4，可下载MT4安装包软件，按流程1分钟即可申请获得Demo模拟盘，测试使用。
+- 国内期货，[CTP官网](https://www.simnow.com.cn/)申请模拟盘，再去[信易官网](https://www.shinnytech.com/)注册后，绑定CTP模拟盘，[源码](https://qdd2019.lanzouj.com/iuKCx1piqfij)中替换后，即可测试使用。
+- 海外期货，需要跟海外期货公司申请模拟盘测试，易盛3.0，对方会提供模拟盘账号和密码以及服务器ip地址、端口号、APPID、CER，[软件](https://qdd2019.lanzouy.com/ih5CU0klxq4f)设置中保存，即可测试使用。
+- 国际外汇MT4，可[下载MT4安装包](http://www.ljrj2023.byethost33.com/?introduction)软件，按流程1分钟即可申请获得Demo模拟盘，测试使用。
 - 人民币199元/3个问题，微信、支付宝、数字人民币支付，电邮：**Hardison0910@foxmail.com**
-- 国际外汇，Real版，799美元绑定实盘账号，终身使用，数字货币支付，推特X私信：**&#64;Hardison0910**
+- [国际外汇，Real版](http://www.ljrj2023.byethost33.com/?introduction)，799美元绑定实盘账号，终身使用，数字货币支付，推特X私信：**&#64;Hardison0910**
 - 美国盈透证券自动化交易软件，早鸟价799美元绑定实盘账号，终身使用，数字货币支付，电邮：**ljrj2019@gmail.com**
 - [《You Can You Up》ZOE英文版](https://z-library.se/book/27494009/b53319)
 - [《You Can You Up》中文简体版](https://z-library.se/book/27485100/7e4800/)
