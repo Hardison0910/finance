@@ -250,7 +250,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 >接受USDT、USDC支付，付费后，提供美国盈透证券实盘账号+付款截图，发电邮到：**ljrj2019@gmail.com**
 
 ------------
-### 《You Can You Up》图书翻译合作
+### [《You Can You Up》图书翻译合作](http://www.ljrj.byethost5.com/?thread-115.htm "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址")  
 - 具备外语翻译能力，可借助ChatGPT等机器翻译协助；
 - 翻译后的电子书，由翻译者负责销售，定价不得超过1美元；
 - 免费获得图书翻译授权；
@@ -262,7 +262,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - 翻译者，提供真实姓名+英文昵称+Gmail电邮或微软hotmail、outlook电邮，发到：**Hardison0910@hotmail.com**
 
 ------------
-### 外汇自动化交易软件代理商合作
+### [外汇自动化交易软件代理商合作](http://www.ljrj.byethost5.com/?thread-114.htm "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址")
 ![外汇自动化交易软件代理商合作](http://www.ljrj.byethost5.com/upload/attach/202401/2_5GQRMKTE98PFQ4V.png)
 - 上述软件，只卖给老外，包括港澳台，不面向中国国内人；
 - 网店网址+真实姓名+英文昵称+Gmail电邮或微软hotmail、outlook电邮，发到：**Hardison0910@hotmail.com**
