@@ -272,7 +272,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 
 ------------
 
-### 汇总：
+### 汇总
 - 国内期货，[CTP官网](https://www.simnow.com.cn/)申请模拟盘，再去[信易官网](https://www.shinnytech.com/)注册后，绑定CTP模拟盘，[源码](https://qdd2019.lanzouj.com/iuKCx1piqfij)中替换后，即可测试使用。
 - 海外期货，需要跟海外期货公司申请模拟盘测试，易盛3.0，对方会提供模拟盘账号和密码以及服务器ip地址、端口号、APPID、CER，[软件](https://qdd2019.lanzouy.com/ih5CU0klxq4f)设置中保存，即可测试使用。
 - 国际外汇MT4，可[下载MT4安装包](http://www.ljrj2023.byethost33.com/?introduction)软件，按流程1分钟即可申请获得Demo模拟盘，测试使用。
@@ -284,6 +284,19 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - [《You Can You Up》中文繁体版](https://z-library.se/book/27489608/23baa8/)
 - [《You Can You Up》芬兰语版](https://www.amazon.com/dp/B0CPMBPLWN?language=zh_CN)
 
+------------
+### [附《You Can You Up》图书作者、软件程序设计研发者Hardison公开基本资料 ](http://www.ljrj.byethost5.com/?thread-116.htm "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址")  
+![作者头像](http://www.ljrj.byethost5.com/upload/attach/202403/1_D8YRZ68V6Y9GH27.jpeg)
+- 男，80后，中国籍，中文昵称：拖拉机
+- 祖籍：安徽省合肥市巢湖市居巢区，当前，常住浙江省杭州市淳安县千岛湖
+- 二十年资深金融量化策略交易者
+- 著有《You Can You Up》（已公开发表）一书，当前正积极翻译成多种语言版，海外发售
+- 拥有【Q天大胜】期货自动化交易软件、【战无敌】EA外汇自动化交易软件2份软件著作权证书
+- 已公开【Q天大胜】Python源码，支持中国国内超过120家期货公司实盘
+- 已发布易盛海外版期货自动化交易软件，支持中国香港、新加坡等海外40多家证券（期货）公司实盘
+- 致力于将任何金融交易，**从人工交易，转变为程序自动化交易**，真正实现普惠金融
+- 《You Can You Up》一书，设立【拖拉机读者奖】
+- 首创，图书作者为读者颁奖，为古往今来第一人，当前**奖金额为1万美元**，未来会逐步提高到100万美元
 ------------
 
 **郑重声明**   <u>*不对模拟结果作任何保证，依据测试结果进行实盘交易的后果完全由使用者自己承担。*</u>
