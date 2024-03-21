@@ -32,6 +32,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 
 
 ### **支持国内期货实盘、海外期货实盘、国际外汇实盘自动化交易平台商一览表**
+<details><summary>点击查看具体名单</summary>
 
 |经纪商名称                 | CTP期货自动化交易        | 海外期货自动化交易 | 外汇MT4自动化交易   |备注                                                                     
 | ---- | :-: | :-: | :-: |  :-: |                                                                             
@@ -225,9 +226,11 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 |支持MT5平台商				|   	    			    | 				         | 				     | 	待升级		
 |美国盈透证券				|   	    			    | 				         | 				     | 	待开发
 
-*上述信息，更新到2024年3月8日
+*上述信息，更新到2024年3月21日
+
 
 ------------
+</details>
 
 > **通过上述Real实盘开户链接开户交易，再购买软件享八折优惠，即<mark>640</mark>美元。&nbsp;&nbsp;&nbsp;私信推特X：&#64;Hardison0910**
 
@@ -250,7 +253,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 >接受USDT、USDC支付，付费后，提供美国盈透证券实盘账号+付款截图，发电邮到：**ljrj2019@gmail.com**
 
 ------------
-### [《You Can You Up》图书翻译合作](http://www.ljrj.byethost5.com/?thread-115.htm "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址")  
+### [⭐《You Can You Up》图书翻译合作⭐](http://www.ljrj.byethost5.com/?thread-115.htm "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址")  
 - 具备外语翻译能力，可借助ChatGPT等机器翻译协助；
 - 翻译后的电子书，由翻译者负责销售，定价不得超过1美元；
 - 免费获得图书翻译授权（**预计从2025年1月1日起，新的图书翻译授权费：1万元/语言版/5年期**）；
@@ -264,7 +267,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - 人才推荐奖：若推荐的图书翻译合作者，累计销量满1万本（册），推荐者获得**1万元人民币推荐奖**
 
 ------------
-### [外汇自动化交易软件代理商合作](http://www.ljrj.byethost5.com/?thread-114.htm "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址")
+### [⭐外汇自动化交易软件代理商合作⭐](http://www.ljrj.byethost5.com/?thread-114.htm "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址")
 ![外汇自动化交易软件代理商合作](http://www.ljrj.byethost5.com/upload/attach/202401/2_5GQRMKTE98PFQ4V.png)
 - 上述软件，只卖给老外，包括港澳台，不面向中国国内人；
 - 免费获得软件销售代理授权（**预计从2025年1月1日起，新的软件销售代理授权费：5万元/5年期**）；
