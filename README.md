@@ -300,6 +300,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - [《You Can You Up》中文简体版](https://z-library.se/book/27485100/7e4800/)
 - [《You Can You Up》中文繁体版](https://z-library.se/book/27489608/23baa8/)
 - [《You Can You Up》芬兰语版](https://www.amazon.com/dp/B0CPMBPLWN?language=zh_CN)
+![芬兰语版](http://www.ljrj.byethost5.com/upload/attach/202403/1_FQ3MJE7XPATM8FX.png)
 <details><summary>点击查看《You Can You Up》图书内容摘要</summary>
 	主要介绍了作者Hardison（拖拉机）在金融交易领域的经验和成就，特别是他在自动化交易方面的创新和实践。以下是书中的核心内容：
 
