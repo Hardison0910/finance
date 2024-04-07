@@ -277,7 +277,6 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - 可授权包括：**英语、瑞典语、日语、马来语、葡萄牙语、泰语、斯洛文尼亚语、蒙古语、斯洛伐克语、荷兰语、塞尔维亚语、印尼语、爱沙尼亚语、希腊语、塔吉克语、波兰语、保加利亚语、捷克语、阿拉伯语、立陶宛语、罗马尼亚语、拉脱维亚语、克罗地亚语、波斯语、韩语**，未列出的小语种，亦可联系，免费获得图书翻译授权；
 - 翻译者，提供真实姓名+英文昵称+Gmail电邮或微软hotmail、outlook电邮，发到：**Hardison0910@hotmail.com**
 ![图书翻译合作](http://www.ljrj.byethost5.com/upload/attach/202403/1_E5BFT4K6MDZ3ZW8.jpg)
-- 人才推荐奖：若推荐的图书翻译合作者，累计销量满1万本（册），推荐者获得**1万元人民币推荐奖**
 - 《富爸爸 穷爸爸》25年3000万册销量，割了咱们中国人多少人民币，我们就用这本书，挣老外多少美元回来
 
 ------------
@@ -286,7 +285,6 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - 上述软件，只卖给老外，包括港澳台，不面向中国国内人；
 - 免费获得软件销售代理授权（**预计从2025年1月1日起，新的软件销售代理授权费：5万元/5年期**）；
 - 网店网址+真实姓名+英文昵称+Gmail电邮或微软hotmail、outlook电邮，发到：**Hardison0910@hotmail.com**
-- 人才推荐奖：若推荐的软件代理商合作者，满足高级代理商条件，推荐者获得**1万美元推荐奖**
 - 前100位付费799美金购买使用的老外，分批受邀参加我们的年会，来回交通费、三天食宿费全免
 
 
@@ -303,7 +301,9 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - [《You Can You Up》中文简体版](https://z-library.se/book/27485100/7e4800/)
 - [《You Can You Up》中文繁体版](https://z-library.se/book/27489608/23baa8/)
 - [《You Can You Up》芬兰语版](https://www.amazon.com/dp/B0CPMBPLWN?language=zh_CN)
-![芬兰语版](http://www.ljrj.byethost5.com/upload/attach/202403/1_FQ3MJE7XPATM8FX.png)
+- [《You Can You Up》Jewel Lee英语版](https://www.amazon.com/dp/B0D126NZX1/)
+
+![Jewel Lee英语版](http://www.ljrj.byethost5.com/upload/attach/202404/1_UUN25Y9QFKSD7XB.png)
 <details><summary>点击查看《You Can You Up》图书内容摘要</summary>
 	主要介绍了作者Hardison（拖拉机）在金融交易领域的经验和成就，特别是他在自动化交易方面的创新和实践。以下是书中的核心内容：
 
