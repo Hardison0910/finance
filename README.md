@@ -226,7 +226,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 |支持MT5平台商				|   	    			    | 				         | 				     | 	待升级		
 |美国盈透证券				|   	    			    | 				         | 				     | 	待开发
 
-*上述信息，更新到2024年3月22日
+*上述信息，更新到2024年4月8日
 
 
 ------------
@@ -248,6 +248,8 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - 2024年9月1日至12月31日，会再次实行**微信港币1元特别优惠计划**，敬请期待！
 
 - 每年**中国香港地区特别优惠计划**累计名额1千份，售完即止！
+
+- 参与本计划的付费用户，不享有受邀参加中国●海南年会资格，敬请周知！
 
 
 ------------
@@ -285,7 +287,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - 上述软件，只卖给老外，包括港澳台，不面向中国国内人；
 - 免费获得软件销售代理授权（**预计从2025年1月1日起，新的软件销售代理授权费：5万元/5年期**）；
 - 网店网址+真实姓名+英文昵称+Gmail电邮或微软hotmail、outlook电邮，发到：**Hardison0910@hotmail.com**
-- 前100位付费799美金购买使用的老外，分批受邀参加我们的年会，来回交通费、三天食宿费全免
+- 前100位付费799美金购买使用的老外，分批受邀参加我们在中国●海南举办的年会，来回交通费、三天食宿费全免
 
 
 ------------
@@ -303,7 +305,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - [《You Can You Up》芬兰语版](https://www.amazon.com/dp/B0CPMBPLWN?language=zh_CN)
 - [《You Can You Up》Jewel Lee英语版](https://www.amazon.com/dp/B0D126NZX1/)
 
-![Jewel Lee英语版](http://www.ljrj.byethost5.com/upload/attach/202404/1_UUN25Y9QFKSD7XB.png)
+![Jewel Lee英语版](http://www.ljrj.byethost5.com/upload/attach/202404/1_HJY5JWZCVFJF45V.png)
 <details><summary>点击查看《You Can You Up》图书内容摘要</summary>
 	主要介绍了作者Hardison（拖拉机）在金融交易领域的经验和成就，特别是他在自动化交易方面的创新和实践。以下是书中的核心内容：
 
