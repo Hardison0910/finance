@@ -1,4 +1,4 @@
-## **【战无敌】EA外汇自动化交易程序（简称：【战无敌】）**
+## **【战无敌】EA外汇自动化交易程序（简称：【战无敌】EA）**
 
 ###     [&copy;鲁记软件](http://www.ljrj.byethost5.com/ "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址")  
 ------------
@@ -209,9 +209,9 @@
 ------------
 </details>
 
-- **通过上述Real实盘开户链接开户交易，再购买软件享八折优惠，即<mark>640</mark>美元。&nbsp;&nbsp;&nbsp;私信推特X：&#64;Hardison0910**
+- 通过上述Real实盘开户链接开户交易，再购买软件享八折优惠，**即<mark>640</mark>美元**。&nbsp;&nbsp;&nbsp;私信推特X：&#64;Hardison0910
 
-- **主要功能为：通过此软件程序，2选1+5个参数设置，可实现外汇平台上，人工交易转变为自动化交易**
+- **主要功能**为：通过此软件程序，2选1+5个参数设置，可实现外汇平台上，人工交易转变为自动化交易
 
 ------------
 ### [⭐中国香港地区特别优惠计划⭐](http://www.ljrj.byethost5.com/ "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址") 
@@ -291,7 +291,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - 免费获得软件销售代理授权（**预计从2025年1月1日起，新的软件销售代理授权费：5万元/5年期**）；
 - 网店网址+真实姓名+英文昵称+Gmail电邮或微软hotmail、outlook电邮，发到：**Hardison0910@hotmail.com**
 - Top100付费799美金的老外，分批受邀参加我们在中国●海南举办的年会，来回交通费、三天食宿费全免
-
+![软件销售代理商授权示范](http://www.ljrj.byethost5.com/upload/attach/202404/2_HN7RHU256PDRMPN.png)
 
 ------------
 
@@ -302,10 +302,10 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - 人民币199元/3个问题，微信、支付宝、数字人民币支付，电邮：**Hardison0910@foxmail.com**
 - [国际外汇，Real版](http://www.ljrj2023.byethost33.com/?introduction)，799美元绑定实盘账号，终身使用，数字货币支付，推特X私信：**&#64;Hardison0910**
 - 美国盈透证券自动化交易软件，早鸟价799美元绑定实盘账号，终身使用，数字货币支付，电邮：**ljrj2019@gmail.com**
-- [《You Can You Up》ZOE英文版](https://z-library.se/book/27494009/b53319)
+- [《You Can You Up》ZOE英语版](https://z-library.se/book/27494009/b53319)
 - [《You Can You Up》中文简体版](https://z-library.se/book/27485100/7e4800/)
 - [《You Can You Up》中文繁体版](https://z-library.se/book/27489608/23baa8/)
-- [《You Can You Up》芬兰语版](https://www.amazon.com/dp/B0CPMBPLWN?language=zh_CN)
+- [《You Can You Up》Eileen Pörsti芬兰语版](https://www.amazon.com/dp/B0CPMBPLWN?language=zh_CN)
 - [《You Can You Up》Jewel Lee英语版](https://www.amazon.com/dp/B0D126NZX1/)
 
 ![Jewel Lee英语版](http://www.ljrj.byethost5.com/upload/attach/202404/1_HJY5JWZCVFJF45V.png)
