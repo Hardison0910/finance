@@ -307,6 +307,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - [《You Can You Up》中文繁体版](https://z-library.se/book/27489608/23baa8/)
 - [《You Can You Up》Eileen Pörsti芬兰语版](https://www.amazon.com/dp/B0CPMBPLWN?language=zh_CN)
 - [《You Can You Up》Jewel Lee英语版](https://www.amazon.com/dp/B0D126NZX1/)
+- [《You Can You Up》Thomas英语版](https://www.amazon.com/dp/B0D31TH5B6)
 
 ![Jewel Lee英语版](http://www.ljrj.byethost5.com/upload/attach/202404/1_HJY5JWZCVFJF45V.png)
 <details><summary>点击查看《You Can You Up》图书内容摘要</summary>
