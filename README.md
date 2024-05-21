@@ -203,7 +203,7 @@
 |中金汇理					|  	    		     	    | 	 			         | 		√		     |
 
 
-*上述信息，更新到2024年4月8日
+*上述信息，更新到2024年5月21日
 
 
 ------------
@@ -309,7 +309,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - [《You Can You Up》Jewel Lee英语版](https://www.amazon.com/dp/B0D126NZX1/)
 - [《You Can You Up》Thomas英语版](https://www.amazon.com/dp/B0D31TH5B6)
 
-![Jewel Lee英语版](http://www.ljrj.byethost5.com/upload/attach/202404/1_HJY5JWZCVFJF45V.png)
+![鲁记软件汇总](http://www.ljrj.byethost5.com/upload/attach/202405/1_XWGCZNHBJKRGAPX.jpg)
 <details><summary>点击查看《You Can You Up》图书内容摘要</summary>
 	主要介绍了作者Hardison（拖拉机）在金融交易领域的经验和成就，特别是他在自动化交易方面的创新和实践。以下是书中的核心内容：
 
