@@ -203,7 +203,7 @@
 |中金汇理					|  	    		     	    | 	 			         | 		√		     |
 
 
-*上述信息，更新到2024年5月21日
+*上述信息，更新到2024年4月8日
 
 
 ------------
@@ -274,7 +274,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 ### [⭐《You Can You Up》图书翻译合作⭐](http://www.ljrj.byethost5.com/?thread-115.htm "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址")  
 - 具备外语翻译能力，可借助ChatGPT等机器翻译协助；
 - 翻译后的电子书，由翻译者负责销售，定价不得超过1美元；
-- 免费获得图书翻译授权（**预计从2025年1月1日起，新的图书翻译授权费：1万元/语言版/5年期**）；
+- 免费获得图书翻译授权（**预计从2025年1月1日起，新的图书翻译授权费：1万元人民币/语言版/5年期**）；
 - 每本书卖出，翻译者获得99美分，只需上交作者1美分，即可；
 - 图书配套软件，定价799美金，每卖出一份，翻译者获得400美金，只需上交作者399美金，即可；
 - 每年1月21日，在中国●海南（对59个国家免签30天）举办年会，累计图书销量满10万本，或者图书配套软件累计销量满1千份，翻译者受邀参加，来回交通费、三天食宿费全免；
@@ -288,7 +288,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 ### [⭐外汇自动化交易软件代理商合作⭐](http://www.ljrj.byethost5.com/?thread-114.htm "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址")
 ![外汇自动化交易软件代理商合作](http://www.ljrj.byethost5.com/upload/attach/202401/2_5GQRMKTE98PFQ4V.png)
 - 上述软件，只卖给老外，包括港澳台，不面向中国国内人；
-- 免费获得软件销售代理授权（**预计从2025年1月1日起，新的软件销售代理授权费：5万元/5年期**）；
+- 免费获得软件销售代理授权（**预计从2025年1月1日起，新的软件销售代理授权费：5万元人民币/5年期**）；
 - 网店网址+真实姓名+英文昵称+Gmail电邮或微软hotmail、outlook电邮，发到：**Hardison0910@hotmail.com**
 - Top100付费799美金的老外，分批受邀参加我们在中国●海南举办的年会，来回交通费、三天食宿费全免
 ![软件销售代理商授权示范](http://www.ljrj.byethost5.com/upload/attach/202404/2_HN7RHU256PDRMPN.png)
@@ -308,6 +308,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 - [《You Can You Up》Eileen Pörsti芬兰语版](https://www.amazon.com/dp/B0CPMBPLWN?language=zh_CN)
 - [《You Can You Up》Jewel Lee英语版](https://www.amazon.com/dp/B0D126NZX1/)
 - [《You Can You Up》Thomas英语版](https://www.amazon.com/dp/B0D31TH5B6)
+- [《You Can You Up》Sabrina英语版](https://www.amazon.com/dp/B0D3V44KFP)
 
 ![鲁记软件汇总](http://www.ljrj.byethost5.com/upload/attach/202405/1_XWGCZNHBJKRGAPX.jpg)
 <details><summary>点击查看《You Can You Up》图书内容摘要</summary>
