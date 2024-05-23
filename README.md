@@ -13,9 +13,9 @@
 |经纪商名称                 | 外汇MT4自动化交易        | CTP期货自动化交易 | 海外期货自动化交易   |备注                                                                     
 | ---- | :-: | :-: | :-: |  :-: |                                                                             
 |		| [零售价799美金/份](http://www.ljrj2023.byethost33.com/?introduction "点击查看，Demo版免费下载，试用体验")   |	[核心Python源码](https://qdd2019.lanzouj.com/iuKCx1piqfij "点击查看，免费下载")      | 	[免费提供](https://qdd2019.lanzouy.com/ih5CU0klxq4f "点击查看，免费下载")  | 
-|DooPrime			|   √	    			    | 				         | 				     | 	[Real实盘开户链接](https://user.dooprime.com/signup/Y3579402-a01)     
-|FXTM（富拓）				|   √	    			    | 				         | 			     | 	[Real实盘开户链接](https://pointtomylink.com/zh/?form=JhmL)  
-|Exness					|   √	    			    | 				         | 				     | 	[Real实盘开户链接](https://one.exness-track.com/a/bp7s4a8xxc)  
+|DooPrime			|   √	    			    | 				         | 				     | 	    
+|FXTM（富拓）				|   √	    			    | 				         | 			     | 	 
+|Exness					|   √	    			    | 				         | 				     |   
 |XM					|   √	    			    | 				         | 				     | 	
 |IG Markets					|   √	    			    | 				         | 				     | 	
 |EBC Group					|   √	    			    | 				         | 				     | 	
@@ -203,13 +203,12 @@
 |中金汇理					|  	    		     	    | 	 			         | 		√		     |
 
 
-*上述信息，更新到2024年4月8日
+*上述信息，更新到2024年5月23日
 
 
 ------------
 </details>
 
-- 通过上述Real实盘开户链接开户交易，再购买软件享八折优惠，**即<mark>640</mark>美元**。&nbsp;&nbsp;&nbsp;私信推特X：&#64;Hardison0910
 
 - **主要功能**为：通过此软件程序，2选1+5个参数设置，可实现外汇平台上，人工交易转变为自动化交易
 
@@ -272,7 +271,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 
 
 ### [⭐《You Can You Up》图书翻译合作⭐](http://www.ljrj.byethost5.com/?thread-115.htm "若网址失效，访问不了，请发电邮到：Hardison0910@hotmail.com 获得最新网址")  
-- 具备**任何一门外语**翻译能力，可借助ChatGPT等机器翻译协助；
+- 具备**任何一门外语**翻译能力，可借助ChatGPT等[机器翻译](https://www.machinetranslation.com/)协助；
 - 免费获得图书翻译授权（**预计从2025年1月1日起，新的图书翻译授权费：1万元人民币/语言版/5年期**）；
 - 翻译后的电子书，由翻译者负责上架亚马逊网站Kindle市场、谷歌图书市场等销售，定价不得超过1美元；
 - 每本书卖出，翻译者获得99美分，只需上交**作者1美分**，即可；
