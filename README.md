@@ -203,7 +203,7 @@
 |中金汇理					|  	    		     	    | 	 			         | 		√		     |
 
 
-*上述信息，更新到2024年6月2日
+*上述信息，更新到2024年6月14日
 
 
 ------------
@@ -288,6 +288,7 @@ python3以上环境中，一行代码安装 `pip install tqsdk -i https://pypi.t
 ------------
 
 ### 汇总
+![比赛](http://www.ljrj.byethost5.com/upload/attach/202406/1_GWJB3WTFE6VKNAM.jpg)
 - 国内期货，[CTP官网](https://www.simnow.com.cn/)申请模拟盘，再去[信易官网](https://www.shinnytech.com/)注册后，绑定CTP模拟盘，[源码](https://qdd2019.lanzouj.com/iuKCx1piqfij)中替换后，即可测试使用。
 - 海外期货，需要跟海外期货公司申请模拟盘测试，易盛3.0，对方会提供模拟盘账号和密码以及服务器ip地址、端口号、APPID、CER，[软件](https://qdd2019.lanzouy.com/ih5CU0klxq4f)设置中保存，即可测试使用。
 - 国际外汇MT4，可[下载MT4安装包](http://www.ljrj2023.byethost33.com/?introduction)软件，按流程1分钟即可申请获得Demo模拟盘，测试使用。
